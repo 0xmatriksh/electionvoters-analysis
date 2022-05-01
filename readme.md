@@ -5,3 +5,6 @@
 - It does voter analysis on the basis of gender and age groups.
 
 - It shows the married and unmarried voters in this ward
+
+### Preview
+![alt text](sunwal1.png)
