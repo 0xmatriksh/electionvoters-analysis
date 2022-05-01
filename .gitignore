@@ -1,2 +1,4 @@
 */sunwal1.csv
-*/.ipynb_checkpoints
+*/scraping_data.ipynb
+*/chromedriver
+.gitignore
