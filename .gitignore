@@ -2,3 +2,4 @@
 */scraping_data.ipynb
 */chromedriver
 .gitignore
+scraping/chromedriver
